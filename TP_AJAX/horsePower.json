@@ -1,0 +1,1626 @@
+[
+    {
+       "Name":"chevrolet chevelle malibu",
+       "Horsepower":130
+    },
+    {
+       "Name":"buick skylark 320",
+       "Horsepower":165
+    },
+    {
+       "Name":"plymouth satellite",
+       "Horsepower":150
+    },
+    {
+       "Name":"amc rebel sst",
+       "Horsepower":150
+    },
+    {
+       "Name":"ford torino",
+       "Horsepower":140
+    },
+    {
+       "Name":"ford galaxie 500",
+       "Horsepower":198
+    },
+    {
+       "Name":"chevrolet impala",
+       "Horsepower":220
+    },
+    {
+       "Name":"plymouth fury iii",
+       "Horsepower":215
+    },
+    {
+       "Name":"pontiac catalina",
+       "Horsepower":225
+    },
+    {
+       "Name":"amc ambassador dpl",
+       "Horsepower":190
+    },
+    {
+       "Name":"citroen ds-21 pallas",
+       "Horsepower":115
+    },
+    {
+       "Name":"chevrolet chevelle concours (sw)",
+       "Horsepower":165
+    },
+    {
+       "Name":"ford torino (sw)",
+       "Horsepower":153
+    },
+    {
+       "Name":"plymouth satellite (sw)",
+       "Horsepower":175
+    },
+    {
+       "Name":"amc rebel sst (sw)",
+       "Horsepower":175
+    },
+    {
+       "Name":"dodge challenger se",
+       "Horsepower":170
+    },
+    {
+       "Name":"plymouth 'cuda 340",
+       "Horsepower":160
+    },
+    {
+       "Name":"ford mustang boss 302",
+       "Horsepower":140
+    },
+    {
+       "Name":"chevrolet monte carlo",
+       "Horsepower":150
+    },
+    {
+       "Name":"buick estate wagon (sw)",
+       "Horsepower":225
+    },
+    {
+       "Name":"toyota corona mark ii",
+       "Horsepower":95
+    },
+    {
+       "Name":"plymouth duster",
+       "Horsepower":95
+    },
+    {
+       "Name":"amc hornet",
+       "Horsepower":97
+    },
+    {
+       "Name":"ford maverick",
+       "Horsepower":85
+    },
+    {
+       "Name":"datsun pl510",
+       "Horsepower":88
+    },
+    {
+       "Name":"volkswagen 1131 deluxe sedan",
+       "Horsepower":46
+    },
+    {
+       "Name":"peugeot 504",
+       "Horsepower":87
+    },
+    {
+       "Name":"audi 100 ls",
+       "Horsepower":90
+    },
+    {
+       "Name":"saab 99e",
+       "Horsepower":95
+    },
+    {
+       "Name":"bmw 2002",
+       "Horsepower":113
+    },
+    {
+       "Name":"amc gremlin",
+       "Horsepower":90
+    },
+    {
+       "Name":"ford f250",
+       "Horsepower":215
+    },
+    {
+       "Name":"chevy c20",
+       "Horsepower":200
+    },
+    {
+       "Name":"dodge d200",
+       "Horsepower":210
+    },
+    {
+       "Name":"hi 1200d",
+       "Horsepower":193
+    },
+    {
+       "Name":"datsun pl510",
+       "Horsepower":88
+    },
+    {
+       "Name":"chevrolet vega 2300",
+       "Horsepower":90
+    },
+    {
+       "Name":"toyota corona",
+       "Horsepower":95
+    },
+    {
+       "Name":"ford pinto",
+       "Horsepower":null
+    },
+    {
+       "Name":"volkswagen super beetle 117",
+       "Horsepower":48
+    },
+    {
+       "Name":"amc gremlin",
+       "Horsepower":100
+    },
+    {
+       "Name":"plymouth satellite custom",
+       "Horsepower":105
+    },
+    {
+       "Name":"chevrolet chevelle malibu",
+       "Horsepower":100
+    },
+    {
+       "Name":"ford torino 500",
+       "Horsepower":88
+    },
+    {
+       "Name":"amc matador",
+       "Horsepower":100
+    },
+    {
+       "Name":"chevrolet impala",
+       "Horsepower":165
+    },
+    {
+       "Name":"pontiac catalina brougham",
+       "Horsepower":175
+    },
+    {
+       "Name":"ford galaxie 500",
+       "Horsepower":153
+    },
+    {
+       "Name":"plymouth fury iii",
+       "Horsepower":150
+    },
+    {
+       "Name":"dodge monaco (sw)",
+       "Horsepower":180
+    },
+    {
+       "Name":"ford country squire (sw)",
+       "Horsepower":170
+    },
+    {
+       "Name":"pontiac safari (sw)",
+       "Horsepower":175
+    },
+    {
+       "Name":"amc hornet sportabout (sw)",
+       "Horsepower":110
+    },
+    {
+       "Name":"chevrolet vega (sw)",
+       "Horsepower":72
+    },
+    {
+       "Name":"pontiac firebird",
+       "Horsepower":100
+    },
+    {
+       "Name":"ford mustang",
+       "Horsepower":88
+    },
+    {
+       "Name":"mercury capri 2000",
+       "Horsepower":86
+    },
+    {
+       "Name":"opel 1900",
+       "Horsepower":90
+    },
+    {
+       "Name":"peugeot 304",
+       "Horsepower":70
+    },
+    {
+       "Name":"fiat 124b",
+       "Horsepower":76
+    },
+    {
+       "Name":"toyota corolla 1200",
+       "Horsepower":65
+    },
+    {
+       "Name":"datsun 1200",
+       "Horsepower":69
+    },
+    {
+       "Name":"volkswagen model 111",
+       "Horsepower":60
+    },
+    {
+       "Name":"plymouth cricket",
+       "Horsepower":70
+    },
+    {
+       "Name":"toyota corona hardtop",
+       "Horsepower":95
+    },
+    {
+       "Name":"dodge colt hardtop",
+       "Horsepower":80
+    },
+    {
+       "Name":"volkswagen type 3",
+       "Horsepower":54
+    },
+    {
+       "Name":"chevrolet vega",
+       "Horsepower":90
+    },
+    {
+       "Name":"ford pinto runabout",
+       "Horsepower":86
+    },
+    {
+       "Name":"chevrolet impala",
+       "Horsepower":165
+    },
+    {
+       "Name":"pontiac catalina",
+       "Horsepower":175
+    },
+    {
+       "Name":"plymouth fury iii",
+       "Horsepower":150
+    },
+    {
+       "Name":"ford galaxie 500",
+       "Horsepower":153
+    },
+    {
+       "Name":"amc ambassador sst",
+       "Horsepower":150
+    },
+    {
+       "Name":"mercury marquis",
+       "Horsepower":208
+    },
+    {
+       "Name":"buick lesabre custom",
+       "Horsepower":155
+    },
+    {
+       "Name":"oldsmobile delta 88 royale",
+       "Horsepower":160
+    },
+    {
+       "Name":"chrysler newport royal",
+       "Horsepower":190
+    },
+    {
+       "Name":"mazda rx2 coupe",
+       "Horsepower":97
+    },
+    {
+       "Name":"amc matador (sw)",
+       "Horsepower":150
+    },
+    {
+       "Name":"chevrolet chevelle concours (sw)",
+       "Horsepower":130
+    },
+    {
+       "Name":"ford gran torino (sw)",
+       "Horsepower":140
+    },
+    {
+       "Name":"plymouth satellite custom (sw)",
+       "Horsepower":150
+    },
+    {
+       "Name":"volvo 145e (sw)",
+       "Horsepower":112
+    },
+    {
+       "Name":"volkswagen 411 (sw)",
+       "Horsepower":76
+    },
+    {
+       "Name":"peugeot 504 (sw)",
+       "Horsepower":87
+    },
+    {
+       "Name":"renault 12 (sw)",
+       "Horsepower":69
+    },
+    {
+       "Name":"ford pinto (sw)",
+       "Horsepower":86
+    },
+    {
+       "Name":"datsun 510 (sw)",
+       "Horsepower":92
+    },
+    {
+       "Name":"toyouta corona mark ii (sw)",
+       "Horsepower":97
+    },
+    {
+       "Name":"dodge colt (sw)",
+       "Horsepower":80
+    },
+    {
+       "Name":"toyota corolla 1600 (sw)",
+       "Horsepower":88
+    },
+    {
+       "Name":"buick century 350",
+       "Horsepower":175
+    },
+    {
+       "Name":"amc matador",
+       "Horsepower":150
+    },
+    {
+       "Name":"chevrolet malibu",
+       "Horsepower":145
+    },
+    {
+       "Name":"ford gran torino",
+       "Horsepower":137
+    },
+    {
+       "Name":"dodge coronet custom",
+       "Horsepower":150
+    },
+    {
+       "Name":"mercury marquis brougham",
+       "Horsepower":198
+    },
+    {
+       "Name":"chevrolet caprice classic",
+       "Horsepower":150
+    },
+    {
+       "Name":"ford ltd",
+       "Horsepower":158
+    },
+    {
+       "Name":"plymouth fury gran sedan",
+       "Horsepower":150
+    },
+    {
+       "Name":"chrysler new yorker brougham",
+       "Horsepower":215
+    },
+    {
+       "Name":"buick electra 225 custom",
+       "Horsepower":225
+    },
+    {
+       "Name":"amc ambassador brougham",
+       "Horsepower":175
+    },
+    {
+       "Name":"plymouth valiant",
+       "Horsepower":105
+    },
+    {
+       "Name":"chevrolet nova custom",
+       "Horsepower":100
+    },
+    {
+       "Name":"amc hornet",
+       "Horsepower":100
+    },
+    {
+       "Name":"ford maverick",
+       "Horsepower":88
+    },
+    {
+       "Name":"plymouth duster",
+       "Horsepower":95
+    },
+    {
+       "Name":"volkswagen super beetle",
+       "Horsepower":46
+    },
+    {
+       "Name":"chevrolet impala",
+       "Horsepower":150
+    },
+    {
+       "Name":"ford country",
+       "Horsepower":167
+    },
+    {
+       "Name":"plymouth custom suburb",
+       "Horsepower":170
+    },
+    {
+       "Name":"oldsmobile vista cruiser",
+       "Horsepower":180
+    },
+    {
+       "Name":"amc gremlin",
+       "Horsepower":100
+    },
+    {
+       "Name":"toyota carina",
+       "Horsepower":88
+    },
+    {
+       "Name":"chevrolet vega",
+       "Horsepower":72
+    },
+    {
+       "Name":"datsun 610",
+       "Horsepower":94
+    },
+    {
+       "Name":"maxda rx3",
+       "Horsepower":90
+    },
+    {
+       "Name":"ford pinto",
+       "Horsepower":85
+    },
+    {
+       "Name":"mercury capri v6",
+       "Horsepower":107
+    },
+    {
+       "Name":"fiat 124 sport coupe",
+       "Horsepower":90
+    },
+    {
+       "Name":"chevrolet monte carlo s",
+       "Horsepower":145
+    },
+    {
+       "Name":"pontiac grand prix",
+       "Horsepower":230
+    },
+    {
+       "Name":"fiat 128",
+       "Horsepower":49
+    },
+    {
+       "Name":"opel manta",
+       "Horsepower":75
+    },
+    {
+       "Name":"audi 100ls",
+       "Horsepower":91
+    },
+    {
+       "Name":"volvo 144ea",
+       "Horsepower":112
+    },
+    {
+       "Name":"dodge dart custom",
+       "Horsepower":150
+    },
+    {
+       "Name":"saab 99le",
+       "Horsepower":110
+    },
+    {
+       "Name":"toyota mark ii",
+       "Horsepower":122
+    },
+    {
+       "Name":"oldsmobile omega",
+       "Horsepower":180
+    },
+    {
+       "Name":"plymouth duster",
+       "Horsepower":95
+    },
+    {
+       "Name":"ford maverick",
+       "Horsepower":null
+    },
+    {
+       "Name":"amc hornet",
+       "Horsepower":100
+    },
+    {
+       "Name":"chevrolet nova",
+       "Horsepower":100
+    },
+    {
+       "Name":"datsun b210",
+       "Horsepower":67
+    },
+    {
+       "Name":"ford pinto",
+       "Horsepower":80
+    },
+    {
+       "Name":"toyota corolla 1200",
+       "Horsepower":65
+    },
+    {
+       "Name":"chevrolet vega",
+       "Horsepower":75
+    },
+    {
+       "Name":"chevrolet chevelle malibu classic",
+       "Horsepower":100
+    },
+    {
+       "Name":"amc matador",
+       "Horsepower":110
+    },
+    {
+       "Name":"plymouth satellite sebring",
+       "Horsepower":105
+    },
+    {
+       "Name":"ford gran torino",
+       "Horsepower":140
+    },
+    {
+       "Name":"buick century luxus (sw)",
+       "Horsepower":150
+    },
+    {
+       "Name":"dodge coronet custom (sw)",
+       "Horsepower":150
+    },
+    {
+       "Name":"ford gran torino (sw)",
+       "Horsepower":140
+    },
+    {
+       "Name":"amc matador (sw)",
+       "Horsepower":150
+    },
+    {
+       "Name":"audi fox",
+       "Horsepower":83
+    },
+    {
+       "Name":"volkswagen dasher",
+       "Horsepower":67
+    },
+    {
+       "Name":"opel manta",
+       "Horsepower":78
+    },
+    {
+       "Name":"toyota corona",
+       "Horsepower":52
+    },
+    {
+       "Name":"datsun 710",
+       "Horsepower":61
+    },
+    {
+       "Name":"dodge colt",
+       "Horsepower":75
+    },
+    {
+       "Name":"fiat 128",
+       "Horsepower":75
+    },
+    {
+       "Name":"fiat 124 tc",
+       "Horsepower":75
+    },
+    {
+       "Name":"honda civic",
+       "Horsepower":97
+    },
+    {
+       "Name":"subaru",
+       "Horsepower":93
+    },
+    {
+       "Name":"fiat x1.9",
+       "Horsepower":67
+    },
+    {
+       "Name":"plymouth valiant custom",
+       "Horsepower":95
+    },
+    {
+       "Name":"chevrolet nova",
+       "Horsepower":105
+    },
+    {
+       "Name":"mercury monarch",
+       "Horsepower":72
+    },
+    {
+       "Name":"ford maverick",
+       "Horsepower":72
+    },
+    {
+       "Name":"pontiac catalina",
+       "Horsepower":170
+    },
+    {
+       "Name":"chevrolet bel air",
+       "Horsepower":145
+    },
+    {
+       "Name":"plymouth grand fury",
+       "Horsepower":150
+    },
+    {
+       "Name":"ford ltd",
+       "Horsepower":148
+    },
+    {
+       "Name":"buick century",
+       "Horsepower":110
+    },
+    {
+       "Name":"chevroelt chevelle malibu",
+       "Horsepower":105
+    },
+    {
+       "Name":"amc matador",
+       "Horsepower":110
+    },
+    {
+       "Name":"plymouth fury",
+       "Horsepower":95
+    },
+    {
+       "Name":"buick skyhawk",
+       "Horsepower":110
+    },
+    {
+       "Name":"chevrolet monza 2+2",
+       "Horsepower":110
+    },
+    {
+       "Name":"ford mustang ii",
+       "Horsepower":129
+    },
+    {
+       "Name":"toyota corolla",
+       "Horsepower":75
+    },
+    {
+       "Name":"ford pinto",
+       "Horsepower":83
+    },
+    {
+       "Name":"amc gremlin",
+       "Horsepower":100
+    },
+    {
+       "Name":"pontiac astro",
+       "Horsepower":78
+    },
+    {
+       "Name":"toyota corona",
+       "Horsepower":96
+    },
+    {
+       "Name":"volkswagen dasher",
+       "Horsepower":71
+    },
+    {
+       "Name":"datsun 710",
+       "Horsepower":97
+    },
+    {
+       "Name":"ford pinto",
+       "Horsepower":97
+    },
+    {
+       "Name":"volkswagen rabbit",
+       "Horsepower":70
+    },
+    {
+       "Name":"amc pacer",
+       "Horsepower":90
+    },
+    {
+       "Name":"audi 100ls",
+       "Horsepower":95
+    },
+    {
+       "Name":"peugeot 504",
+       "Horsepower":88
+    },
+    {
+       "Name":"volvo 244dl",
+       "Horsepower":98
+    },
+    {
+       "Name":"saab 99le",
+       "Horsepower":115
+    },
+    {
+       "Name":"honda civic cvcc",
+       "Horsepower":53
+    },
+    {
+       "Name":"fiat 131",
+       "Horsepower":86
+    },
+    {
+       "Name":"opel 1900",
+       "Horsepower":81
+    },
+    {
+       "Name":"capri ii",
+       "Horsepower":92
+    },
+    {
+       "Name":"dodge colt",
+       "Horsepower":79
+    },
+    {
+       "Name":"renault 12tl",
+       "Horsepower":83
+    },
+    {
+       "Name":"chevrolet chevelle malibu classic",
+       "Horsepower":140
+    },
+    {
+       "Name":"dodge coronet brougham",
+       "Horsepower":150
+    },
+    {
+       "Name":"amc matador",
+       "Horsepower":120
+    },
+    {
+       "Name":"ford gran torino",
+       "Horsepower":152
+    },
+    {
+       "Name":"plymouth valiant",
+       "Horsepower":100
+    },
+    {
+       "Name":"chevrolet nova",
+       "Horsepower":105
+    },
+    {
+       "Name":"ford maverick",
+       "Horsepower":81
+    },
+    {
+       "Name":"amc hornet",
+       "Horsepower":90
+    },
+    {
+       "Name":"chevrolet chevette",
+       "Horsepower":52
+    },
+    {
+       "Name":"chevrolet woody",
+       "Horsepower":60
+    },
+    {
+       "Name":"vw rabbit",
+       "Horsepower":70
+    },
+    {
+       "Name":"honda civic",
+       "Horsepower":53
+    },
+    {
+       "Name":"dodge aspen se",
+       "Horsepower":100
+    },
+    {
+       "Name":"ford granada ghia",
+       "Horsepower":78
+    },
+    {
+       "Name":"pontiac ventura sj",
+       "Horsepower":110
+    },
+    {
+       "Name":"amc pacer d/l",
+       "Horsepower":95
+    },
+    {
+       "Name":"volkswagen rabbit",
+       "Horsepower":71
+    },
+    {
+       "Name":"datsun b-210",
+       "Horsepower":70
+    },
+    {
+       "Name":"toyota corolla",
+       "Horsepower":75
+    },
+    {
+       "Name":"ford pinto",
+       "Horsepower":72
+    },
+    {
+       "Name":"volvo 245",
+       "Horsepower":102
+    },
+    {
+       "Name":"plymouth volare premier v8",
+       "Horsepower":150
+    },
+    {
+       "Name":"peugeot 504",
+       "Horsepower":88
+    },
+    {
+       "Name":"toyota mark ii",
+       "Horsepower":108
+    },
+    {
+       "Name":"mercedes-benz 280s",
+       "Horsepower":120
+    },
+    {
+       "Name":"cadillac seville",
+       "Horsepower":180
+    },
+    {
+       "Name":"chevy c10",
+       "Horsepower":145
+    },
+    {
+       "Name":"ford f108",
+       "Horsepower":130
+    },
+    {
+       "Name":"dodge d100",
+       "Horsepower":150
+    },
+    {
+       "Name":"honda Accelerationord cvcc",
+       "Horsepower":68
+    },
+    {
+       "Name":"buick opel isuzu deluxe",
+       "Horsepower":80
+    },
+    {
+       "Name":"renault 5 gtl",
+       "Horsepower":58
+    },
+    {
+       "Name":"plymouth arrow gs",
+       "Horsepower":96
+    },
+    {
+       "Name":"datsun f-10 hatchback",
+       "Horsepower":70
+    },
+    {
+       "Name":"chevrolet caprice classic",
+       "Horsepower":145
+    },
+    {
+       "Name":"oldsmobile cutlass supreme",
+       "Horsepower":110
+    },
+    {
+       "Name":"dodge monaco brougham",
+       "Horsepower":145
+    },
+    {
+       "Name":"mercury cougar brougham",
+       "Horsepower":130
+    },
+    {
+       "Name":"chevrolet concours",
+       "Horsepower":110
+    },
+    {
+       "Name":"buick skylark",
+       "Horsepower":105
+    },
+    {
+       "Name":"plymouth volare custom",
+       "Horsepower":100
+    },
+    {
+       "Name":"ford granada",
+       "Horsepower":98
+    },
+    {
+       "Name":"pontiac grand prix lj",
+       "Horsepower":180
+    },
+    {
+       "Name":"chevrolet monte carlo landau",
+       "Horsepower":170
+    },
+    {
+       "Name":"chrysler cordoba",
+       "Horsepower":190
+    },
+    {
+       "Name":"ford thunderbird",
+       "Horsepower":149
+    },
+    {
+       "Name":"volkswagen rabbit custom",
+       "Horsepower":78
+    },
+    {
+       "Name":"pontiac sunbird coupe",
+       "Horsepower":88
+    },
+    {
+       "Name":"toyota corolla liftback",
+       "Horsepower":75
+    },
+    {
+       "Name":"ford mustang ii 2+2",
+       "Horsepower":89
+    },
+    {
+       "Name":"chevrolet chevette",
+       "Horsepower":63
+    },
+    {
+       "Name":"dodge colt m/m",
+       "Horsepower":83
+    },
+    {
+       "Name":"subaru dl",
+       "Horsepower":67
+    },
+    {
+       "Name":"volkswagen dasher",
+       "Horsepower":78
+    },
+    {
+       "Name":"datsun 810",
+       "Horsepower":97
+    },
+    {
+       "Name":"bmw 320i",
+       "Horsepower":110
+    },
+    {
+       "Name":"mazda rx-4",
+       "Horsepower":110
+    },
+    {
+       "Name":"volkswagen rabbit custom diesel",
+       "Horsepower":48
+    },
+    {
+       "Name":"ford fiesta",
+       "Horsepower":66
+    },
+    {
+       "Name":"mazda glc deluxe",
+       "Horsepower":52
+    },
+    {
+       "Name":"datsun b210 gx",
+       "Horsepower":70
+    },
+    {
+       "Name":"honda civic cvcc",
+       "Horsepower":60
+    },
+    {
+       "Name":"oldsmobile cutlass salon brougham",
+       "Horsepower":110
+    },
+    {
+       "Name":"dodge diplomat",
+       "Horsepower":140
+    },
+    {
+       "Name":"mercury monarch ghia",
+       "Horsepower":139
+    },
+    {
+       "Name":"pontiac phoenix lj",
+       "Horsepower":105
+    },
+    {
+       "Name":"chevrolet malibu",
+       "Horsepower":95
+    },
+    {
+       "Name":"ford fairmont (auto)",
+       "Horsepower":85
+    },
+    {
+       "Name":"ford fairmont (man)",
+       "Horsepower":88
+    },
+    {
+       "Name":"plymouth volare",
+       "Horsepower":100
+    },
+    {
+       "Name":"amc concord",
+       "Horsepower":90
+    },
+    {
+       "Name":"buick century special",
+       "Horsepower":105
+    },
+    {
+       "Name":"mercury zephyr",
+       "Horsepower":85
+    },
+    {
+       "Name":"dodge aspen",
+       "Horsepower":110
+    },
+    {
+       "Name":"amc concord d/l",
+       "Horsepower":120
+    },
+    {
+       "Name":"chevrolet monte carlo landau",
+       "Horsepower":145
+    },
+    {
+       "Name":"buick regal sport coupe (turbo)",
+       "Horsepower":165
+    },
+    {
+       "Name":"ford futura",
+       "Horsepower":139
+    },
+    {
+       "Name":"dodge magnum xe",
+       "Horsepower":140
+    },
+    {
+       "Name":"chevrolet chevette",
+       "Horsepower":68
+    },
+    {
+       "Name":"toyota corona",
+       "Horsepower":95
+    },
+    {
+       "Name":"datsun 510",
+       "Horsepower":97
+    },
+    {
+       "Name":"dodge omni",
+       "Horsepower":75
+    },
+    {
+       "Name":"toyota celica gt liftback",
+       "Horsepower":95
+    },
+    {
+       "Name":"plymouth sapporo",
+       "Horsepower":105
+    },
+    {
+       "Name":"oldsmobile starfire sx",
+       "Horsepower":85
+    },
+    {
+       "Name":"datsun 200-sx",
+       "Horsepower":97
+    },
+    {
+       "Name":"audi 5000",
+       "Horsepower":103
+    },
+    {
+       "Name":"volvo 264gl",
+       "Horsepower":125
+    },
+    {
+       "Name":"saab 99gle",
+       "Horsepower":115
+    },
+    {
+       "Name":"peugeot 604sl",
+       "Horsepower":133
+    },
+    {
+       "Name":"volkswagen scirocco",
+       "Horsepower":71
+    },
+    {
+       "Name":"honda Accelerationord lx",
+       "Horsepower":68
+    },
+    {
+       "Name":"pontiac lemans v6",
+       "Horsepower":115
+    },
+    {
+       "Name":"mercury zephyr 6",
+       "Horsepower":85
+    },
+    {
+       "Name":"ford fairmont 4",
+       "Horsepower":88
+    },
+    {
+       "Name":"amc concord dl 6",
+       "Horsepower":90
+    },
+    {
+       "Name":"dodge aspen 6",
+       "Horsepower":110
+    },
+    {
+       "Name":"chevrolet caprice classic",
+       "Horsepower":130
+    },
+    {
+       "Name":"ford ltd landau",
+       "Horsepower":129
+    },
+    {
+       "Name":"mercury grand marquis",
+       "Horsepower":138
+    },
+    {
+       "Name":"dodge st. regis",
+       "Horsepower":135
+    },
+    {
+       "Name":"buick estate wagon (sw)",
+       "Horsepower":155
+    },
+    {
+       "Name":"ford country squire (sw)",
+       "Horsepower":142
+    },
+    {
+       "Name":"chevrolet malibu classic (sw)",
+       "Horsepower":125
+    },
+    {
+       "Name":"chrysler lebaron town @ country (sw)",
+       "Horsepower":150
+    },
+    {
+       "Name":"vw rabbit custom",
+       "Horsepower":71
+    },
+    {
+       "Name":"maxda glc deluxe",
+       "Horsepower":65
+    },
+    {
+       "Name":"dodge colt hatchback custom",
+       "Horsepower":80
+    },
+    {
+       "Name":"amc spirit dl",
+       "Horsepower":80
+    },
+    {
+       "Name":"mercedes benz 300d",
+       "Horsepower":77
+    },
+    {
+       "Name":"cadillac eldorado",
+       "Horsepower":125
+    },
+    {
+       "Name":"peugeot 504",
+       "Horsepower":71
+    },
+    {
+       "Name":"oldsmobile cutlass salon brougham",
+       "Horsepower":90
+    },
+    {
+       "Name":"plymouth horizon",
+       "Horsepower":70
+    },
+    {
+       "Name":"plymouth horizon tc3",
+       "Horsepower":70
+    },
+    {
+       "Name":"datsun 210",
+       "Horsepower":65
+    },
+    {
+       "Name":"fiat strada custom",
+       "Horsepower":69
+    },
+    {
+       "Name":"buick skylark limited",
+       "Horsepower":90
+    },
+    {
+       "Name":"chevrolet citation",
+       "Horsepower":115
+    },
+    {
+       "Name":"oldsmobile omega brougham",
+       "Horsepower":115
+    },
+    {
+       "Name":"pontiac phoenix",
+       "Horsepower":90
+    },
+    {
+       "Name":"vw rabbit",
+       "Horsepower":76
+    },
+    {
+       "Name":"toyota corolla tercel",
+       "Horsepower":60
+    },
+    {
+       "Name":"chevrolet chevette",
+       "Horsepower":70
+    },
+    {
+       "Name":"datsun 310",
+       "Horsepower":65
+    },
+    {
+       "Name":"chevrolet citation",
+       "Horsepower":90
+    },
+    {
+       "Name":"ford fairmont",
+       "Horsepower":88
+    },
+    {
+       "Name":"amc concord",
+       "Horsepower":90
+    },
+    {
+       "Name":"dodge aspen",
+       "Horsepower":90
+    },
+    {
+       "Name":"audi 4000",
+       "Horsepower":78
+    },
+    {
+       "Name":"toyota corona liftback",
+       "Horsepower":90
+    },
+    {
+       "Name":"mazda 626",
+       "Horsepower":75
+    },
+    {
+       "Name":"datsun 510 hatchback",
+       "Horsepower":92
+    },
+    {
+       "Name":"toyota corolla",
+       "Horsepower":75
+    },
+    {
+       "Name":"mazda glc",
+       "Horsepower":65
+    },
+    {
+       "Name":"dodge colt",
+       "Horsepower":105
+    },
+    {
+       "Name":"datsun 210",
+       "Horsepower":65
+    },
+    {
+       "Name":"vw rabbit c (diesel)",
+       "Horsepower":48
+    },
+    {
+       "Name":"vw dasher (diesel)",
+       "Horsepower":48
+    },
+    {
+       "Name":"audi 5000s (diesel)",
+       "Horsepower":67
+    },
+    {
+       "Name":"mercedes-benz 240d",
+       "Horsepower":67
+    },
+    {
+       "Name":"honda civic 1500 gl",
+       "Horsepower":67
+    },
+    {
+       "Name":"renault lecar deluxe",
+       "Horsepower":null
+    },
+    {
+       "Name":"subaru dl",
+       "Horsepower":67
+    },
+    {
+       "Name":"vokswagen rabbit",
+       "Horsepower":62
+    },
+    {
+       "Name":"datsun 280-zx",
+       "Horsepower":132
+    },
+    {
+       "Name":"mazda rx-7 gs",
+       "Horsepower":100
+    },
+    {
+       "Name":"triumph tr7 coupe",
+       "Horsepower":88
+    },
+    {
+       "Name":"ford mustang cobra",
+       "Horsepower":null
+    },
+    {
+       "Name":"honda Accelerationord",
+       "Horsepower":72
+    },
+    {
+       "Name":"plymouth reliant",
+       "Horsepower":84
+    },
+    {
+       "Name":"buick skylark",
+       "Horsepower":84
+    },
+    {
+       "Name":"dodge aries wagon (sw)",
+       "Horsepower":92
+    },
+    {
+       "Name":"chevrolet citation",
+       "Horsepower":110
+    },
+    {
+       "Name":"plymouth reliant",
+       "Horsepower":84
+    },
+    {
+       "Name":"toyota starlet",
+       "Horsepower":58
+    },
+    {
+       "Name":"plymouth champ",
+       "Horsepower":64
+    },
+    {
+       "Name":"honda civic 1300",
+       "Horsepower":60
+    },
+    {
+       "Name":"subaru",
+       "Horsepower":67
+    },
+    {
+       "Name":"datsun 210",
+       "Horsepower":65
+    },
+    {
+       "Name":"toyota tercel",
+       "Horsepower":62
+    },
+    {
+       "Name":"mazda glc 4",
+       "Horsepower":68
+    },
+    {
+       "Name":"plymouth horizon 4",
+       "Horsepower":63
+    },
+    {
+       "Name":"ford escort 4w",
+       "Horsepower":65
+    },
+    {
+       "Name":"ford escort 2h",
+       "Horsepower":65
+    },
+    {
+       "Name":"volkswagen jetta",
+       "Horsepower":74
+    },
+    {
+       "Name":"renault 18i",
+       "Horsepower":null
+    },
+    {
+       "Name":"honda prelude",
+       "Horsepower":75
+    },
+    {
+       "Name":"toyota corolla",
+       "Horsepower":75
+    },
+    {
+       "Name":"datsun 200sx",
+       "Horsepower":100
+    },
+    {
+       "Name":"mazda 626",
+       "Horsepower":74
+    },
+    {
+       "Name":"peugeot 505s turbo diesel",
+       "Horsepower":80
+    },
+    {
+       "Name":"saab 900s",
+       "Horsepower":110
+    },
+    {
+       "Name":"volvo diesel",
+       "Horsepower":76
+    },
+    {
+       "Name":"toyota cressida",
+       "Horsepower":116
+    },
+    {
+       "Name":"datsun 810 maxima",
+       "Horsepower":120
+    },
+    {
+       "Name":"buick century",
+       "Horsepower":110
+    },
+    {
+       "Name":"oldsmobile cutlass ls",
+       "Horsepower":105
+    },
+    {
+       "Name":"ford granada gl",
+       "Horsepower":88
+    },
+    {
+       "Name":"chrysler lebaron salon",
+       "Horsepower":85
+    },
+    {
+       "Name":"chevrolet cavalier",
+       "Horsepower":88
+    },
+    {
+       "Name":"chevrolet cavalier wagon",
+       "Horsepower":88
+    },
+    {
+       "Name":"chevrolet cavalier 2-door",
+       "Horsepower":88
+    },
+    {
+       "Name":"pontiac j2000 se hatchback",
+       "Horsepower":85
+    },
+    {
+       "Name":"dodge aries se",
+       "Horsepower":84
+    },
+    {
+       "Name":"pontiac phoenix",
+       "Horsepower":90
+    },
+    {
+       "Name":"ford fairmont futura",
+       "Horsepower":92
+    },
+    {
+       "Name":"amc concord dl",
+       "Horsepower":null
+    },
+    {
+       "Name":"volkswagen rabbit l",
+       "Horsepower":74
+    },
+    {
+       "Name":"mazda glc custom l",
+       "Horsepower":68
+    },
+    {
+       "Name":"mazda glc custom",
+       "Horsepower":68
+    },
+    {
+       "Name":"plymouth horizon miser",
+       "Horsepower":63
+    },
+    {
+       "Name":"mercury lynx l",
+       "Horsepower":70
+    },
+    {
+       "Name":"nissan stanza xe",
+       "Horsepower":88
+    },
+    {
+       "Name":"honda Accelerationord",
+       "Horsepower":75
+    },
+    {
+       "Name":"toyota corolla",
+       "Horsepower":70
+    },
+    {
+       "Name":"honda civic",
+       "Horsepower":67
+    },
+    {
+       "Name":"honda civic (auto)",
+       "Horsepower":67
+    },
+    {
+       "Name":"datsun 310 gx",
+       "Horsepower":67
+    },
+    {
+       "Name":"buick century limited",
+       "Horsepower":110
+    },
+    {
+       "Name":"oldsmobile cutlass ciera (diesel)",
+       "Horsepower":85
+    },
+    {
+       "Name":"chrysler lebaron medallion",
+       "Horsepower":92
+    },
+    {
+       "Name":"ford granada l",
+       "Horsepower":112
+    },
+    {
+       "Name":"toyota celica gt",
+       "Horsepower":96
+    },
+    {
+       "Name":"dodge charger 2.2",
+       "Horsepower":84
+    },
+    {
+       "Name":"chevrolet camaro",
+       "Horsepower":90
+    },
+    {
+       "Name":"ford mustang gl",
+       "Horsepower":86
+    },
+    {
+       "Name":"vw pickup",
+       "Horsepower":52
+    },
+    {
+       "Name":"dodge rampage",
+       "Horsepower":84
+    },
+    {
+       "Name":"ford ranger",
+       "Horsepower":79
+    },
+    {
+       "Name":"chevy s-10",
+       "Horsepower":82
+    }
+ ]

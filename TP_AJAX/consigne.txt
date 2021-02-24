@@ -1,0 +1,20 @@
+GIT HUB DU TP https://github.com/AdamAffou/TP-Ajax-
+1 - Afficher le contenu d'un fichier JSON dans un tableau html
+    -> via Ajax https://raw.githubusercontent.com/AdamAffou/TP-Ajax-/main/cars.json
+2 - Créer un bouton cliquable pour récupérer la puissance (HorsePower) d'une voiture par son nom :
+    -> via Ajax dans https://raw.githubusercontent.com/AdamAffou/TP-Ajax-/main/horsePower.json
+    -> Si pour un même nom de voiture il y a plusieurs résultat, prendre le premier
+3 - Créer un champ de recherche sur la colonne Name, Insensible à la case (Attention si la recherche est vide il faut tout affiché)
+4 - Créer un champ de recherche sur la colonne Accélération (Afficher les résultats si l'accélération est inférieur à la recherche)
+5 - Créer un bouton de recherche qui fait la recherche des deux
+
+--- Informations : 
+--- 2h30 pour le faire
+--- <100 lignes de code JS
+--- Attention aux perfs
+--- 10 Pts pour les fonctionnalités (Pas de copier / coller entre groupes)
+--- 5 Pts pour les explications du codes en commentaires
+--- 2.5 Pts pour la lisibilité du code
+--- 2.5 Pts pour des fonctionnalités plus poussées
+
+--- A rendre pour le Dimanche 28 / 02 dernier délai
